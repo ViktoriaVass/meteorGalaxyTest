@@ -10,6 +10,7 @@ caching-compiler@1.2.2
 caching-html-compiler@1.2.1
 callback-hook@1.5.1
 check@1.3.2
+davidsichau:meteor-lti-auth@1.0.1
 ddp@1.4.1
 ddp-client@2.6.1
 ddp-common@1.4.0
